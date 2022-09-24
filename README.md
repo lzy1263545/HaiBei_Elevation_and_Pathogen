@@ -1,13 +1,13 @@
 # Lin_2022_HaiBei_Elevation_and_Pathogen
-# This repository contains published original data and R code from Lin et al.'s paper.
+This repository contains published original data and R code from Lin et al.'s paper.
 
-# Both the original data and R code were devided into two parts - "Haibei-Field-Study" and "Meta-analysis".
-# (i.e. four files attached in this repository named:
+Both the original data and R code were devided into two parts - "Haibei-Field-Study" and "Meta-analysis".
+(i.e. four files attached in this repository named:
    1. "Lin_2022_Haibei-Field-Study.R": the R code for Haibei field study;
    2. "HaibeiData.xlsx": the original data of Haibei field study;
    3. "Lin_2022_Meta-analysis.R": the R code for Meta-analysis;
    4. "MetaData.xlsx": the original data of Meta-analysis.)
-# Detailed annotations were attached in each of above four files
+Detailed annotations were attached in each of above four files
 
 # For the original data of Haibei field study:
   following data were contained - 1. elevation;
