@@ -10,18 +10,18 @@ Both the original data and R code were devided into two parts - "Haibei-Field-St
 Detailed annotations were attached in each of above four files
 
 # For the original data of Haibei field study:
-  following data were contained - 1. elevation;
+  Following data were contained - 1. elevation;
                                   2. plant community characteristics (only on community level);
                                   3. soil properties (only the first principle component of soil properites, Soil PCA1);
                                   4. environmental conditions;
-                                  5. foliar fungal disease (only on community level)
-                                  6. soil fungal pathogen related indices (only on community level)
+                                  5. foliar fungal disease (only on community level);
+                                  6. soil fungal pathogen related indices (only on community level).
                                   [for each of 30 plots in the experiment]
 # For the original data of Meta-analysis:
-  following data were contained - 1. numbers of studies and papers
-                                  2. basic information of papers
-                                  3. ecological and geographical information of study site
-                                  4. ecological and geographical focuses of experimental design
-                                  5. statistical results for analysis
+  Following data were contained - 1. numbers of studies and papers;
+                                  2. basic information of papers;
+                                  3. ecological and geographical information of study site;
+                                  4. ecological and geographical focuses of experimental design;
+                                  5. statistical results for analysis.
                                   [for each of 62 studies included in the Meta-analysis]
                                   
