@@ -26,8 +26,9 @@ Detailed annotations were attached in each of above four files
                                   [for each of 62 studies included in the Meta-analysis]
 # Supplementary information:
 **Appendix 1**
-includes: (1) Section S1.1: Supplementary methods; 
-          (2) Table S1.1 – S1.10; 
+includes: (1) Section S1.1: Supplementary methods;
+          (2) Table S1.1 – S1.10;       
           (3) Figure S1.1 – S1.14
+          
 **Appendix 2** 
 includes: (1) Table S2.1                                 
