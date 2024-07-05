@@ -5,7 +5,7 @@ Both the original data and R code were devided into two parts - "Haibei-Field-St
 (i.e. four files attached in this repository named:
    1. "Haibei-Field-Study_Analysis.R": the R code for Haibei field study;
    2. "HaibeiData.xlsx": the original data of Haibei field study;
-   3. "Meta-analysis_Analysis.R": the R code for Meta-analysis;
+   3. "Meta_Elevation_Pathogen_Analysis.R": the R code for Meta-analysis;
    4. "MetaData.xlsx": the original data of Meta-analysis.)
 Detailed annotations were attached in each of above four files
 
